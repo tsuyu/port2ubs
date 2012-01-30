@@ -15,5 +15,5 @@
 <entry key="PORT">3306</entry>
 <entry key="DATABASE">koperasi</entry>
 <entry key="USER">root</entry>
-<entry key="PASSWORD">pa$$word4SPH</entry>
+<entry key="PASSWORD">password</entry>
 </properties>
