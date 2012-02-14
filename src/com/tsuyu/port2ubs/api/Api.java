@@ -319,7 +319,7 @@ public class Api {
             if (department.equals(Constant.FEE)) {
                 return "MEMBER FEE DEDUCTION";
             } else if (department.equals(Constant.SHARE)) {
-                return "MEMBER FEE DEDUCTION";
+                return "MEMBER SHARE DEDUCTION";
             } else if (department.equals(Constant.ACTIVITY1)) {
                 return "ACTIVITY 1 DEDUCTION";
             } else if (department.equals(Constant.ACTIVITY2)) {
