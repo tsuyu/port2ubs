@@ -2,9 +2,9 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.kospek.port2ubs.db;
+package com.tsuyu.port2ubs.db;
 
-import com.kospek.port2ubs.constant.Constant;
+import com.tsuyu.port2ubs.constant.Constant;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
