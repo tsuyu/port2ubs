@@ -4,8 +4,8 @@
  */
 package com.tsuyu.port2ubs.api;
 
-import com.kospek.port2ubs.constant.Constant;
-import com.kospek.port2ubs.db.XbaseDB;
+import com.tsuyu.port2ubs.constant.Constant;
+import com.tsuyu.port2ubs.db.XbaseDB;
 import java.sql.Connection;
 import java.sql.Statement;
 
