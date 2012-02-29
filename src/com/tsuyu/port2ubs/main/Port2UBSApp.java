@@ -3,7 +3,7 @@
  * and open the template in the editor.
  */
 
-package com.kospek.port2ubs.main;
+package com.tsuyu.port2ubs.main;
 
 import java.util.logging.Level;
 import java.util.logging.Logger;
