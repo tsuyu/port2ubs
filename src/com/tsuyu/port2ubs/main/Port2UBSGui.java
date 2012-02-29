@@ -8,7 +8,7 @@
  *
  * Created on Jun 5, 2011, 8:54:05 PM
  */
-package com.kospek.port2ubs.main;
+package com.tsuyu.port2ubs.main;
 
 import com.tsuyu.port2ubs.api.Excel;
 import com.tsuyu.port2ubs.api.Dbf;
