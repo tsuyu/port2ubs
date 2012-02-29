@@ -4,9 +4,9 @@
  */
 package com.tsuyu.port2ubs.api;
 
-import com.kospek.port2ubs.constant.Constant;
-import com.kospek.port2ubs.db.XbaseDB;
-import com.kospek.port2ubs.db.MysqlDB;
+import com.tsuyu.port2ubs.constant.Constant;
+import com.tsuyu.port2ubs.db.XbaseDB;
+import com.tsuyu.port2ubs.db.MysqlDB;
 import com.tsuyu.port2ubs.util.Util;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
