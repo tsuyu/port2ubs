@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.kospek.port2ubs.constant;
+package com.tsuyu.port2ubs.constant;
 
 /**
  *
