@@ -4,7 +4,7 @@
  */
 package com.tsuyu.port2ubs.util;
 
-import com.kospek.port2ubs.constant.Constant;
+import com.tsuyu.port2ubs.constant.Constant;
 import java.text.DecimalFormat;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
